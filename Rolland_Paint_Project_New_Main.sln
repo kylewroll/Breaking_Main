@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolland_Paint_Project", "Rolland_Paint_Project\Rolland_Paint_Project.csproj", "{09C3598B-BEE7-4080-98AE-328609C084B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolland_Paint_Project_New_Main", "Rolland_Paint_Project\Rolland_Paint_Project_New_Main.csproj", "{09C3598B-BEE7-4080-98AE-328609C084B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

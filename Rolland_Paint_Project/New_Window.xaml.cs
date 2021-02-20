@@ -25,6 +25,7 @@ namespace Rolland_Paint_Project
     /// </summary>
     public partial class New_Window : Window
     {
+        //runs the window that contains the label, thats literally all
         public New_Window()
         {
             InitializeComponent();

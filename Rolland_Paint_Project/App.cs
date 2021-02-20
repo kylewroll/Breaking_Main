@@ -12,8 +12,10 @@ using System.Threading.Tasks;
 
 namespace Rolland_Paint_Project
 {
+    //Application class created to run program
     public class App : System.Windows.Application
     {
+        //The elusive non auto generated main function
         [STAThread]
         public static void Main()
         {

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolland_Paint_Project", "Rolland_Paint_Project\Rolland_Paint_Project.csproj", "{09C3598B-BEE7-4080-98AE-328609C084B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C3598B-BEE7-4080-98AE-328609C084B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C3598B-BEE7-4080-98AE-328609C084B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C3598B-BEE7-4080-98AE-328609C084B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C3598B-BEE7-4080-98AE-328609C084B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408C515C-3618-4894-88D0-81D14672F8A7}
+	EndGlobalSection
+EndGlobal

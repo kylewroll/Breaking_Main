@@ -1,5 +1,5 @@
 ﻿/* Author: Kyle Rolland
- * Date: 2/4/2021
+ * Date: 2/10/2021
  * File: MainWindow.xaml.cs
  * Description: Implementation file for the various functions provided by the drawing application
  */
